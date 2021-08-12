@@ -29,6 +29,14 @@ Starts the application in production mode. The application should be compiled wi
 
 The application will start at http://localhost:3000 by default. The default port can be changed with -p, like so: **npx next dev -p 4000**
 
+### `npm run test`
+
+Runs all tests.
+
+### `npm run test-watch`
+
+Launches the test runner in the interactive watch mode. Watch files for changes and re-run tests related to changed files.
+
 ### `npm run lint`
 
 Identifies and reports on patterns found in ECMAScript/JavaScript code, with the goal of making code more consistent and avoiding bugs.
